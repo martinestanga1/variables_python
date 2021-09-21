@@ -27,9 +27,16 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
-
+suma = numero_1 + numero_2
+print("El resultado de sumar los numeros es", suma)
 # Resta
-
+resta = numero_1 - numero_2
+print("El resultado de la resta es", resta)
 # División
-
+division =  numero_1 / numero_2
+print("El resultado de la división es", division)
 # Multiplicación
+multiplicacion = numero_1 * numero_2
+print("El resultado de la multiplicación es", multiplicacion)
+
+#Resolución del ejercicio
